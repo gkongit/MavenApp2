@@ -30,6 +30,10 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
+                <configurations>
+                	<source>1.7</source>
+                	<target>1.7</target>
+                </configurations>
             </plugin>
 
             <!-- Maven Surefire Plugin for Running Tests -->
