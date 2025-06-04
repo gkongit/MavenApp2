@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/gagan/MavenApp/target/surefire/surefirebooter11678485290052150216.jar /home/gagan/MavenApp/target/surefire 2025-06-04T22-25-13_449-jvmRun1 surefire10891802497937347296tmp surefire_07832724849274315584tmp"/>
+    <property name="sun.java.command" value="/home/gagan/MavenApp/target/surefire/surefirebooter8130819262782440607.jar /home/gagan/MavenApp/target/surefire 2025-06-04T22-47-58_433-jvmRun1 surefire9997933728269080243tmp surefire_015234178672813133635tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/gagan/MavenApp/target/test-classes:/home/gagan/MavenApp/target/classes:/home/gagan/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/gagan/MavenApp/target/surefire/surefirebooter11678485290052150216.jar"/>
+    <property name="surefire.real.class.path" value="/home/gagan/MavenApp/target/surefire/surefirebooter8130819262782440607.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.27+6-post-Ubuntu-0ubuntu122.04"/>
     <property name="user.name" value="gagan"/>
